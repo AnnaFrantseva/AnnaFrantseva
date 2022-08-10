@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @AnnaFrantseva
-- 👀 I’m interested in Testing.
-- 🌱 I’m currently learning API.
-- 💞️ I’m looking to collaborate on everybody.
 - 📫 How to reach me https://t.me/annafranceva.
 
 <!---
