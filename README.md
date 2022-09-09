@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnnaFrantseva
+- 👋 Hi, I’m AnnaFrantseva
 - 📫 How to reach me https://t.me/hobby_testing
 
 <!---
